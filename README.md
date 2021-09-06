@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phil from Canada, Québec.
-- 👀 I’m interested in Front-end dev..
-- 🌱 I’m currently learning a lot of things based on front-end and computer dev...
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning Python, 
 - 💞️ I’m looking to collaborate on any project ...
 - 📫 pmarquis3@hotmail.com
 <!---
