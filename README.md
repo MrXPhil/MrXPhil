@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Phil from Canada, Québec.	
+- 👋 Hi, I’m Phil from Canada, Québec city.	
 - 👀 I’m interested in web development 	
-- 🌱 I’m currently learning Python, 	
+- 🌱 I’m currently learning Python, JS,  	
 - 💞️ I’m looking to collaborate on any project ...	
 - 📫 pmarquis3@hotmail.com	
 <!---	
